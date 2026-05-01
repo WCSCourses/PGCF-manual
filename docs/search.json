@@ -1,5 +1,269 @@
 [
   {
+    "objectID": "tutorials/index.html",
+    "href": "tutorials/index.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "This section provides step-by-step tutorials to help you apply the Pathogen Genomics Competency Framework (PGCF) in practice.\nEach tutorial is designed as a guided workflow. You can follow along from start to finish, using your own context (role, course, or organisation).",
+    "crumbs": [
+      "Home",
+      "Tutorials"
+    ]
+  },
+  {
+    "objectID": "tutorials/index.html#learn-how-to-use-the-pgcf",
+    "href": "tutorials/index.html#learn-how-to-use-the-pgcf",
+    "title": "Tutorials",
+    "section": "",
+    "text": "This section provides step-by-step tutorials to help you apply the Pathogen Genomics Competency Framework (PGCF) in practice.\nEach tutorial is designed as a guided workflow. You can follow along from start to finish, using your own context (role, course, or organisation).",
+    "crumbs": [
+      "Home",
+      "Tutorials"
+    ]
+  },
+  {
+    "objectID": "tutorials/index.html#who-are-these-tutorials-for",
+    "href": "tutorials/index.html#who-are-these-tutorials-for",
+    "title": "Tutorials",
+    "section": "2 Who are these tutorials for?",
+    "text": "2 Who are these tutorials for?\nThese tutorials are designed for:\n\nLearners exploring their own competencies\n\nEducators designing courses or training programmes\n\nWorkforce planners and programme leads\n\nAnyone applying PGCF in a real-world setting\n\nIf you are new to the framework, start with the Individual learner tutorial.",
+    "crumbs": [
+      "Home",
+      "Tutorials"
+    ]
+  },
+  {
+    "objectID": "tutorials/index.html#how-to-use-this-section",
+    "href": "tutorials/index.html#how-to-use-this-section",
+    "title": "Tutorials",
+    "section": "3 How to use this section",
+    "text": "3 How to use this section\n\nChoose a tutorial based on your goal\n\nFollow the steps in order\n\nUse the examples and templates provided\n\nApply the process to your own context\n\nEach tutorial should take 15–45 minutes, depending on depth.",
+    "crumbs": [
+      "Home",
+      "Tutorials"
+    ]
+  },
+  {
+    "objectID": "tutorials/index.html#available-tutorials",
+    "href": "tutorials/index.html#available-tutorials",
+    "title": "Tutorials",
+    "section": "4 Available tutorials",
+    "text": "4 Available tutorials\n\n4.1 🧑‍🔬 Individual learner: assess and plan your development\nLearn how to: - Run a self-assessment\n- Interpret your results\n- Identify strengths and gaps\n- Define learning goals\n👉 Start here if you are new to PGCF\n\n\n\n4.2 🎓 Curriculum design: build a course using PGCF\nLearn how to: - Select relevant domains and topics\n- Define learning outcomes\n- Align content with Bloom’s levels\n- Structure a course\n\n\n\n4.3 🏥 Workforce planning: define roles and identify gaps\nLearn how to: - Define workforce roles\n- Map competencies to roles\n- Identify capability gaps\n- Prioritise training needs\n\n\n\n4.4 📚 Course mapping: align an existing course\nLearn how to: - Map course content to PGCF domains\n- Identify missing topics or competencies\n- Improve coverage and alignment",
+    "crumbs": [
+      "Home",
+      "Tutorials"
+    ]
+  },
+  {
+    "objectID": "tutorials/index.html#suggested-learning-paths",
+    "href": "tutorials/index.html#suggested-learning-paths",
+    "title": "Tutorials",
+    "section": "5 Suggested learning paths",
+    "text": "5 Suggested learning paths\n\n5.1 If you are a learner\n\nIndividual learner tutorial\n\nExplore domains (Reference section)\n\n\n\n5.2 If you design training\n\nCurriculum design tutorial\n\nCourse mapping tutorial\n\n\n\n5.3 If you work in workforce development\n\nWorkforce planning tutorial\n\nHow-to guides (gap analysis, role profiles)",
+    "crumbs": [
+      "Home",
+      "Tutorials"
+    ]
+  },
+  {
+    "objectID": "tutorials/index.html#whats-next",
+    "href": "tutorials/index.html#whats-next",
+    "title": "Tutorials",
+    "section": "6 What’s next?",
+    "text": "6 What’s next?\nAfter completing a tutorial:\n\nUse How-to Guides for specific tasks\n\nExplore the Reference section for full competency details\n\nApply templates from the Tools & Implementation section",
+    "crumbs": [
+      "Home",
+      "Tutorials"
+    ]
+  },
+  {
+    "objectID": "tutorials/index.html#tips",
+    "href": "tutorials/index.html#tips",
+    "title": "Tutorials",
+    "section": "7 Tips",
+    "text": "7 Tips\n\nStart simple — you don’t need all 60 topics\n\nFocus on the domains relevant to your context\n\nUse PGCF iteratively — refine as you go",
+    "crumbs": [
+      "Home",
+      "Tutorials"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html",
+    "href": "getting-started/index.html",
+    "title": "Getting Started",
+    "section": "",
+    "text": "The PGCF provides a structured way to understand, assess, and develop competencies required for pathogen genomics across laboratory science, bioinformatics, epidemiology, and public health.\nWhether you are designing training, planning workforce development, or guiding your own learning, this section will help you get started quickly.",
+    "crumbs": [
+      "Home",
+      "Getting Started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#welcome-to-the-pathogen-genomics-competency-framework-pgcf",
+    "href": "getting-started/index.html#welcome-to-the-pathogen-genomics-competency-framework-pgcf",
+    "title": "Getting Started",
+    "section": "",
+    "text": "The PGCF provides a structured way to understand, assess, and develop competencies required for pathogen genomics across laboratory science, bioinformatics, epidemiology, and public health.\nWhether you are designing training, planning workforce development, or guiding your own learning, this section will help you get started quickly.",
+    "crumbs": [
+      "Home",
+      "Getting Started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#what-is-a-competency-framework",
+    "href": "getting-started/index.html#what-is-a-competency-framework",
+    "title": "Getting Started",
+    "section": "2 What is a competency framework?",
+    "text": "2 What is a competency framework?\nA competency framework defines the knowledge, skills, and attitudes (KSA) required to perform effectively in a specific domain.\nIn the context of pathogen genomics, this means: - Understanding laboratory and sequencing workflows\n- Analysing and interpreting genomic data\n- Applying insights in clinical and public health settings\n- Working across disciplines and systems\nThe PGCF brings these elements together into a single, structured model.",
+    "crumbs": [
+      "Home",
+      "Getting Started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#what-makes-pgcf-different",
+    "href": "getting-started/index.html#what-makes-pgcf-different",
+    "title": "Getting Started",
+    "section": "3 What makes PGCF different?",
+    "text": "3 What makes PGCF different?\nThe PGCF is designed to reflect the full complexity of pathogen genomics in practice.\n\n3.1 360° coverage\nCovers the entire workflow: - Sample collection → sequencing → analysis → interpretation → decision-making\n\n\n3.2 Role-spanning\nApplies across: - Laboratory scientists\n- Bioinformaticians\n- Epidemiologists\n- Clinicians\n- Public health professionals\n\n\n3.3 Structured progression (Bloom’s taxonomy)\nEach competency is defined across six levels of complexity: - Remember → Understand → Apply → Analyse → Evaluate → Create\n\n\n3.4 Knowledge, Skills, Attitudes (KSA)\nEach competency is tagged to support: - Teaching design\n- Assessment strategies\n- Workforce planning",
+    "crumbs": [
+      "Home",
+      "Getting Started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#when-should-you-use-pgcf",
+    "href": "getting-started/index.html#when-should-you-use-pgcf",
+    "title": "Getting Started",
+    "section": "4 When should you use PGCF?",
+    "text": "4 When should you use PGCF?\nUse the framework when you need to:\n\nDesign or improve a training programme\n\nMap an existing course to competencies\n\nIdentify skills gaps in individuals or teams\n\nDefine role expectations\n\nSupport workforce planning\n\nGuide your own professional development",
+    "crumbs": [
+      "Home",
+      "Getting Started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#what-does-pgcf-include",
+    "href": "getting-started/index.html#what-does-pgcf-include",
+    "title": "Getting Started",
+    "section": "5 What does PGCF include?",
+    "text": "5 What does PGCF include?\nThe framework is part of a broader toolkit:\n\n5.1 Framework structure\n\n10 domains\n\n60 topics\n\n360 competency statements\n\n\n\n5.2 Competency database\n\nSearchable and structured\n\nOrganised by domain, topic, and Bloom’s level\n\n\n\n5.3 Self-assessment tool\n\nIdentify required levels for your role\n\nGenerate a personalised competency profile\n\n\n\n5.4 User guide and templates\n\nCurriculum mapping\n\nGap analysis\n\nWorkforce planning tools",
+    "crumbs": [
+      "Home",
+      "Getting Started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#your-first-5-minutes-with-pgcf",
+    "href": "getting-started/index.html#your-first-5-minutes-with-pgcf",
+    "title": "Getting Started",
+    "section": "6 Your first 5 minutes with PGCF",
+    "text": "6 Your first 5 minutes with PGCF\nIf you’re new, start here:\n\n6.1 1. Explore the framework\nBrowse the domains and topics to understand the scope.\n👉 See: Framework overview\n\n\n6.2 2. Try the self-assessment\nIdentify the level of competency relevant to your role.\n👉 Launch: https://mycompetencies.streamlit.app/\n\n\n6.3 3. Review your results\n\nWhere are your strengths?\n\nWhere are your gaps?\n\n\n\n6.4 4. Define next steps\n\nSelect relevant domains\n\nSet learning or training goals",
+    "crumbs": [
+      "Home",
+      "Getting Started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#next-steps",
+    "href": "getting-started/index.html#next-steps",
+    "title": "Getting Started",
+    "section": "7 Next steps",
+    "text": "7 Next steps\nChoose the path that fits your goal:\n\n👉 Learn how to use PGCF step-by-step → Tutorials\n\n👉 Complete a specific task → How-to Guides\n\n👉 Understand the framework in depth → Explanation\n\n👉 Browse competencies → Reference",
+    "crumbs": [
+      "Home",
+      "Getting Started"
+    ]
+  },
+  {
+    "objectID": "getting-started/index.html#need-help",
+    "href": "getting-started/index.html#need-help",
+    "title": "Getting Started",
+    "section": "8 Need help?",
+    "text": "8 Need help?\nIf you’re unsure where to start: - Begin with the Individual learner tutorial - Or explore a use case relevant to your role",
+    "crumbs": [
+      "Home",
+      "Getting Started"
+    ]
+  },
+  {
+    "objectID": "how-to/index.html",
+    "href": "how-to/index.html",
+    "title": "How-to Guides",
+    "section": "",
+    "text": "This section provides practical, task-focused guides to help you use the Pathogen Genomics Competency Framework (PGCF) to achieve specific goals.\nUnlike tutorials, which walk you through a full workflow, these guides help you solve a particular problem or complete a defined task.",
+    "crumbs": [
+      "Home",
+      "How-to Guides"
+    ]
+  },
+  {
+    "objectID": "how-to/index.html#perform-specific-tasks-with-the-pgcf",
+    "href": "how-to/index.html#perform-specific-tasks-with-the-pgcf",
+    "title": "How-to Guides",
+    "section": "",
+    "text": "This section provides practical, task-focused guides to help you use the Pathogen Genomics Competency Framework (PGCF) to achieve specific goals.\nUnlike tutorials, which walk you through a full workflow, these guides help you solve a particular problem or complete a defined task.",
+    "crumbs": [
+      "Home",
+      "How-to Guides"
+    ]
+  },
+  {
+    "objectID": "how-to/index.html#when-should-you-use-these-guides",
+    "href": "how-to/index.html#when-should-you-use-these-guides",
+    "title": "How-to Guides",
+    "section": "2 When should you use these guides?",
+    "text": "2 When should you use these guides?\nUse the How-to Guides when you need to:\n\nPerform a gap analysis\nMap a curriculum or course\nDefine role profiles\nAssess training needs\nIntegrate PGCF into an existing programme\nInterpret competency levels in practice\n\nIf you are new to the framework, start with the Tutorials section first.",
+    "crumbs": [
+      "Home",
+      "How-to Guides"
+    ]
+  },
+  {
+    "objectID": "how-to/index.html#available-guides",
+    "href": "how-to/index.html#available-guides",
+    "title": "How-to Guides",
+    "section": "3 Available guides",
+    "text": "3 Available guides\n\n3.1 🔍 Perform a gap analysis\nIdentify strengths and gaps in: - A curriculum\n- A team or organisation\n- A training programme\nUse this to prioritise areas for development.\n\n\n\n3.2 🧩 Map a curriculum to PGCF\nAlign your course or training programme with: - PGCF domains and topics\n- Competency statements\n- Expected levels of complexity\n\n\n\n3.3 👥 Define role profiles\nCreate structured role definitions by: - Selecting relevant domains\n- Assigning expected competency levels\n- Clarifying responsibilities\n\n\n\n3.4 📊 Conduct a training needs assessment\nUse PGCF to: - Identify required competencies for a role or team\n- Compare current vs expected levels\n- Inform training plans\n\n\n\n3.5 🎓 Integrate PGCF into short courses\nEmbed the framework into: - Course design\n- Learning objectives\n- Assessment strategies\n\n\n\n3.6 🧠 Interpret Bloom’s levels in practice\nUnderstand how to: - Translate levels into teaching and assessment\n- Apply levels consistently across topics\n- Avoid common misunderstandings\n\n\n\n3.7 🌍 Use PGCF across sectors\nAdapt the framework for: - Clinical settings\n- Public health organisations\n- Research environments",
+    "crumbs": [
+      "Home",
+      "How-to Guides"
+    ]
+  },
+  {
+    "objectID": "how-to/index.html#how-to-use-these-guides",
+    "href": "how-to/index.html#how-to-use-these-guides",
+    "title": "How-to Guides",
+    "section": "4 How to use these guides",
+    "text": "4 How to use these guides\n\nStart with a clear goal\n\nSelect the relevant guide\n\nFollow only the steps you need\n\nApply directly to your context\n\nThese guides are designed to be modular and flexible.",
+    "crumbs": [
+      "Home",
+      "How-to Guides"
+    ]
+  },
+  {
+    "objectID": "how-to/index.html#whats-next",
+    "href": "how-to/index.html#whats-next",
+    "title": "How-to Guides",
+    "section": "5 What’s next?",
+    "text": "5 What’s next?\n\nUse Tutorials for guided workflows\n\nExplore Reference for detailed competency content\n\nUse Tools & Implementation for templates and resources",
+    "crumbs": [
+      "Home",
+      "How-to Guides"
+    ]
+  },
+  {
+    "objectID": "how-to/index.html#tips",
+    "href": "how-to/index.html#tips",
+    "title": "How-to Guides",
+    "section": "6 Tips",
+    "text": "6 Tips\n\nFocus on relevant domains — not everything is needed\n\nUse PGCF iteratively — refine over time\n\nCombine multiple guides for complex tasks",
+    "crumbs": [
+      "Home",
+      "How-to Guides"
+    ]
+  },
+  {
     "objectID": "template_course.html",
     "href": "template_course.html",
     "title": "template_course",
