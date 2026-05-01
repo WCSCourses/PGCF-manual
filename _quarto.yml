@@ -4,103 +4,105 @@ project:
   
   
 website:
-  title: "Genome Sequence Analysis Course"
+  title: "Pathogen Genomics Competency Framework"
+  description: "User manual for the Pathogen Genomics Competency Framework (PGCF)."
   navbar:
-    logo: "_extensions/img/WCS_Logo-Primary_Black.jpg"
-    background: light
     left:
-      - href: index.qmd
-        text: Home
-      - href: welcome.qmd
-        text: Learning paths
-      - text: Modules
-        menu:
-          - href: course_modules/Introduction-to-linux/module0.qmd
-            text: "Introduction to Linux"
-          - href: course_modules/Module1/module1.qmd
-            text: "File formats and QC"
-          - href: course_modules/Module2/module2.qmd
-            text: "Reads alignment"
-          - href: course_modules/Module3/module3.qmd
-            text: "Variant calling"
-          - href: course_modules/Module4/module4.qmd
-            text: "Structural Variation Calling"
-          - href: course_modules/Module5/module5.qmd
-            text: "Genome assembly"
-          - href: course_modules/Glossary/glossary.qmd
-            text: "Glossary of terms"
-      - text: Informatics Guide
-        menu:
-          - href: course_modules/VM_guide/VM_Guide.qmd
-            text: "How to setup a VM"
-          - href: course_modules/VM_guide/Software_list.qmd
-            text: "Software list"
+      - text: "Home"
+        href: index.qmd
+      - text: "Get Started"
+        href: getting-started/index.qmd
+      - text: "Explanation"
+        href: explanation/index.qmd
+      - text: "Reference"
+        href: reference/index.qmd
+      - text: "FAQ"
+        href: faq.qmd
+      - text: "About"
+        href: about/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/WCSCourses/pgcf-manual
+        aria-label: GitHub
+
   sidebar:
     style: "docked"
     search: true
     collapse-level: 1
     contents:
-      - section: "Introduction to Linux"
+
+      - section: "Getting Started"
+        href: getting-started/index.qmd
         contents:
-          - course_modules/Introduction-to-linux/module0.qmd
-          - course_modules/Introduction-to-linux/module0_manual.qmd
-          - course_modules/Introduction-to-linux/module0_exercises.qmd
-          - course_modules/Introduction-to-linux/module0_solutions.qmd
-          - course_modules/Introduction-to-linux/module0_instructor_notes.qmd
-          - course_modules/Introduction-to-linux/module0_datasets.qmd
-          - course_modules/Introduction-to-linux/module0_platform_guidance.qmd
-      - section: "File formats"
+          - getting-started/what-is-a-competency-framework.qmd
+          - getting-started/what-makes-pgcf-different.qmd
+          - getting-started/when-to-use-pgcf.qmd
+          - getting-started/components-overview.qmd
+
+      - section: "Tutorials"
+        href: tutorials/index.qmd
         contents:
-          - course_modules/Module1/module1.qmd
-          - course_modules/Module1/module1_manual.qmd
-          - course_modules/Module1/module1_exercises.qmd
-          - course_modules/Module1/module1_solutions.qmd
-          - course_modules/Module1/module1_instructor_notes.qmd
-          - course_modules/Module1/module1_datasets.qmd
-          - course_modules/Module1/module1_platform_guidance.qmd
-      - section: "Read alignment"
+          - tutorials/individual-learner.qmd
+          - tutorials/curriculum-design.qmd
+          - tutorials/workforce-planning.qmd
+          - tutorials/course-mapping.qmd
+
+      - section: "How-to Guides"
+        href: how-to/index.qmd
         contents:
-          - course_modules/Module2/module2.qmd
-          - course_modules/Module2/module2_manual.qmd
-          - course_modules/Module2/module2_exercises.qmd
-          - course_modules/Module2/module2_solutions.qmd
-          - course_modules/Module2/module2_instructor_notes.qmd
-          - course_modules/Module2/module2_datasets.qmd
-          - course_modules/Module2/module2_platform_guidance.qmd
-      - section: "Variant calling"
+          - how-to/gap-analysis.qmd
+          - how-to/map-a-curriculum.qmd
+          - how-to/define-role-profiles.qmd
+          - how-to/training-needs-assessment.qmd
+          - how-to/integrate-into-short-courses.qmd
+          - how-to/interpret-blooms-levels.qmd
+          - how-to/use-across-sectors.qmd
+
+      - section: "Framework Explanation"
+        href: explanation/index.qmd
         contents:
-          - course_modules/Module3/module3.qmd
-          - course_modules/Module3/module3_manual.qmd
-          - course_modules/Module3/module3_exercises.qmd
-          - course_modules/Module3/module3_solutions.qmd
-          - course_modules/Module3/module3_instructor_notes.qmd
-          - course_modules/Module3/module3_datasets.qmd
-          - course_modules/Module3/module3_platform_guidance.qmd
-      - section: "Structural Variation Calling"
+          - explanation/framework-overview.qmd
+          - explanation/domains-and-structure.qmd
+          - explanation/competencies-and-ksa.qmd
+          - explanation/blooms-taxonomy-in-pgcf.qmd
+          - explanation/development-methodology.qmd
+
+      - section: "Reference"
+        href: reference/index.qmd
         contents:
-          - course_modules/Module4/module4.qmd
-          - course_modules/Module4/module4_manual.qmd
-          - course_modules/Module4/module4_exercises.qmd
-          - course_modules/Module4/module4_solutions.qmd
-          - course_modules/Module4/module4_instructor_notes.qmd
-          - course_modules/Module4/module4_datasets.qmd
-          - course_modules/Module4/module4_platform_guidance.qmd
-      - section: "Genome Assembly"
+          - reference/domains-and-topics.qmd
+          - reference/competency-statements.qmd
+          - reference/role-profiles.qmd
+          - reference/data-model.qmd
+
+      - section: "Tools & Implementation"
+        href: tools/index.qmd
         contents:
-          - course_modules/Module5/module5.qmd
-          - course_modules/Module5/module5_manual.qmd
-          - course_modules/Module5/module5_exercises.qmd
-          - course_modules/Module5/module5_solutions.qmd
-          - course_modules/Module5/module5_instructor_notes.qmd
-          - course_modules/Module5/module5_datasets.qmd
-          - course_modules/Module5/module5_platform_guidance.qmd
-      - section: "How to setup your VM"
+          - tools/self-assessment-tool.qmd
+          - tools/competency-database.qmd
+          - tools/templates.qmd
+          - tools/ai-assistant.qmd
+
+      - section: "Use Cases / Case Studies"
+        href: use-cases/index.qmd
         contents:
-          - course_modules/VM_guide/VM_Guide.qmd
-          - course_modules/VM_guide/Software_list.qmd
-      - section: 'Contributors'
+          - use-cases/academic-course-design.qmd
+          - use-cases/public-health-workforce-planning.qmd
+          - use-cases/clinical-genomics-integration.qmd
+          - use-cases/short-course-training.qmd
+          - use-cases/national-level-implementation.qmd
+
+      - section: "FAQs & Troubleshooting"
         contents:
-          - "meet the team.qmd"
+          - faq.qmd
+
+      - section: "About & Governance"
+        href: about/index.qmd
+        contents:
+          - about/versioning.qmd
+          - about/updates-and-governance.qmd
+          - about/contributors.qmd
+          - about/license.qmd
   
   page-navigation: true 
   page-footer: 
@@ -122,10 +124,7 @@ format:
     number-sections: true
     number-depth: 5
     theme:
-      light: flatly
-      dark: darkly
-      #light: [theme_lter-edu-light, _extensions/lter/lter_scss-theme/theme_lter-edu-light.scss]
-      #dark: [theme_lter-edu-dark, _extensions/lter/lter_scss-theme/theme_lter-edu-dark.scss]
+      light: [cosmo, theme.scss]
     anchor-sections: true
     toc: true
     footnotes-hover: true

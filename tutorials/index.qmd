@@ -1,0 +1,111 @@
+---
+title: "Tutorials"
+---
+
+## Learn how to use the PGCF
+
+This section provides **step-by-step tutorials** to help you apply the Pathogen Genomics Competency Framework (PGCF) in practice.
+
+Each tutorial is designed as a **guided workflow**. You can follow along from start to finish, using your own context (role, course, or organisation).
+
+------------------------------------------------------------------------
+
+## Who are these tutorials for?
+
+These tutorials are designed for:
+
+-   Learners exploring their own competencies\
+-   Educators designing courses or training programmes\
+-   Workforce planners and programme leads\
+-   Anyone applying PGCF in a real-world setting
+
+If you are new to the framework, start with the **Individual learner tutorial**.
+
+------------------------------------------------------------------------
+
+## How to use this section
+
+-   Choose a tutorial based on your goal\
+-   Follow the steps in order\
+-   Use the examples and templates provided\
+-   Apply the process to your own context
+
+Each tutorial should take **15–45 minutes**, depending on depth.
+
+------------------------------------------------------------------------
+
+## Available tutorials
+
+### 🧑‍🔬 Individual learner: assess and plan your development
+
+Learn how to: - Run a self-assessment\
+- Interpret your results\
+- Identify strengths and gaps\
+- Define learning goals
+
+👉 Start here if you are new to PGCF
+
+------------------------------------------------------------------------
+
+### 🎓 Curriculum design: build a course using PGCF
+
+Learn how to: - Select relevant domains and topics\
+- Define learning outcomes\
+- Align content with Bloom’s levels\
+- Structure a course
+
+------------------------------------------------------------------------
+
+### 🏥 Workforce planning: define roles and identify gaps
+
+Learn how to: - Define workforce roles\
+- Map competencies to roles\
+- Identify capability gaps\
+- Prioritise training needs
+
+------------------------------------------------------------------------
+
+### 📚 Course mapping: align an existing course
+
+Learn how to: - Map course content to PGCF domains\
+- Identify missing topics or competencies\
+- Improve coverage and alignment
+
+------------------------------------------------------------------------
+
+## Suggested learning paths
+
+### If you are a learner
+
+1.  Individual learner tutorial\
+2.  Explore domains (Reference section)
+
+### If you design training
+
+1.  Curriculum design tutorial\
+2.  Course mapping tutorial
+
+### If you work in workforce development
+
+1.  Workforce planning tutorial\
+2.  How-to guides (gap analysis, role profiles)
+
+------------------------------------------------------------------------
+
+## What’s next?
+
+After completing a tutorial:
+
+-   Use **How-to Guides** for specific tasks\
+-   Explore the **Reference** section for full competency details\
+-   Apply templates from the **Tools & Implementation** section
+
+------------------------------------------------------------------------
+
+## Tips
+
+-   Start simple — you don’t need all 60 topics\
+-   Focus on the domains relevant to your context\
+-   Use PGCF iteratively — refine as you go
+
+------------------------------------------------------------------------

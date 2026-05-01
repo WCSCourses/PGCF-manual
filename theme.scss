@@ -1,0 +1,137 @@
+/*-- scss:defaults --*/
+
+$body-bg: #fcfcfc;
+$body-color: #404040;
+$link-color: #2980b9;
+$navbar-bg: #ffffff;
+$navbar-fg: #404040;
+$navbar-hl: #2980b9;
+
+$font-family-sans-serif: "Lato", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$headings-font-family: "Lato", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$headings-font-weight: 700;
+$code-color: #c7254e;
+
+/*-- scss:rules --*/
+
+body {
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+h1, h2, h3, h4 {
+  color: #2b2b2b;
+  margin-top: 1.4rem;
+  margin-bottom: 0.8rem;
+}
+
+h1.title {
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+
+p {
+  max-width: 75ch;
+}
+
+.navbar {
+  border-bottom: 1px solid #e6e9ed;
+  box-shadow: none;
+}
+
+/* LEFT sidebar only */
+#quarto-sidebar {
+  background: #2b2b2b;
+  border-right: 1px solid #1f1f1f;
+  color: #ffffff;
+}
+
+/* Text + links */
+#quarto-sidebar a,
+#quarto-sidebar .menu-text,
+#quarto-sidebar .sidebar-item-text {
+  color: #dcdcdc !important;
+}
+
+/* Hover */
+#quarto-sidebar a:hover {
+  color: #ffffff !important;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* Active item */
+#quarto-sidebar .active,
+#quarto-sidebar .sidebar-item-text.sidebar-link.active {
+  color: #ffffff !important;
+  font-weight: 700;
+  background: rgba(255, 255, 255, 0.08);
+  border-left: 3px solid #4dabf7;
+  padding-left: 0.5rem;
+}
+
+/* Section titles */
+#quarto-sidebar .sidebar-title {
+  color: #ffffff;
+}
+
+/* Search box */
+#quarto-sidebar .aa-Form {
+  background: #1f1f1f;
+  border: 1px solid #444;
+}
+
+#quarto-sidebar input {
+  color: #ffffff;
+}
+
+/* RIGHT sidebar (TOC) reset */
+#TOC {
+  background: transparent;
+  color: inherit;
+}
+
+#TOC a {
+  color: #2980b9;
+}
+
+main.content {
+  background: #ffffff;
+}
+
+.callout {
+  border-left: 4px solid #2980b9;
+  border-radius: 0.25rem;
+}
+
+.callout-note {
+  background-color: #f8fbfd;
+}
+
+code {
+  font-size: 0.9em;
+}
+
+pre {
+  border: 1px solid #e6e9ed;
+  border-radius: 4px;
+  background: #f8f8f8;
+}
+
+.quarto-title-banner {
+  background: #ffffff;
+  border-bottom: 1px solid #e6e9ed;
+}
+
+#quarto-content {
+  padding-top: 1rem;
+}
+
+/* Make docs feel tighter, like RTD */
+.sidebar nav[role="doc-toc"] ul,
+.sidebar .sidebar-menu-container ul {
+  gap: 0.15rem;
+}
+
+.sidebar .sidebar-item {
+  margin-bottom: 0.1rem;
+}

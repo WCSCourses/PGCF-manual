@@ -1,0 +1,143 @@
+---
+title: "Get started"
+format: html
+---
+
+---
+title: "Getting Started"
+---
+
+## Welcome to the Pathogen Genomics Competency Framework (PGCF)
+
+The PGCF provides a structured way to understand, assess, and develop competencies required for pathogen genomics across laboratory science, bioinformatics, epidemiology, and public health.
+
+Whether you are designing training, planning workforce development, or guiding your own learning, this section will help you get started quickly.
+
+------------------------------------------------------------------------
+
+## What is a competency framework?
+
+A competency framework defines the **knowledge, skills, and attitudes (KSA)** required to perform effectively in a specific domain.
+
+In the context of pathogen genomics, this means: - Understanding laboratory and sequencing workflows\
+- Analysing and interpreting genomic data\
+- Applying insights in clinical and public health settings\
+- Working across disciplines and systems
+
+The PGCF brings these elements together into a single, structured model.
+
+------------------------------------------------------------------------
+
+## What makes PGCF different?
+
+The PGCF is designed to reflect the **full complexity of pathogen genomics in practice**.
+
+### 360° coverage
+
+Covers the entire workflow: - Sample collection → sequencing → analysis → interpretation → decision-making
+
+### Role-spanning
+
+Applies across: - Laboratory scientists\
+- Bioinformaticians\
+- Epidemiologists\
+- Clinicians\
+- Public health professionals
+
+### Structured progression (Bloom’s taxonomy)
+
+Each competency is defined across **six levels of complexity**: - Remember → Understand → Apply → Analyse → Evaluate → Create
+
+### Knowledge, Skills, Attitudes (KSA)
+
+Each competency is tagged to support: - Teaching design\
+- Assessment strategies\
+- Workforce planning
+
+------------------------------------------------------------------------
+
+## When should you use PGCF?
+
+Use the framework when you need to:
+
+-   Design or improve a training programme\
+-   Map an existing course to competencies\
+-   Identify skills gaps in individuals or teams\
+-   Define role expectations\
+-   Support workforce planning\
+-   Guide your own professional development
+
+------------------------------------------------------------------------
+
+## What does PGCF include?
+
+The framework is part of a broader toolkit:
+
+### Framework structure
+
+-   10 domains\
+-   60 topics\
+-   360 competency statements
+
+### Competency database
+
+-   Searchable and structured\
+-   Organised by domain, topic, and Bloom’s level
+
+### Self-assessment tool
+
+-   Identify required levels for your role\
+-   Generate a personalised competency profile
+
+### User guide and templates
+
+-   Curriculum mapping\
+-   Gap analysis\
+-   Workforce planning tools
+
+------------------------------------------------------------------------
+
+## Your first 5 minutes with PGCF
+
+If you’re new, start here:
+
+### 1. Explore the framework
+
+Browse the domains and topics to understand the scope.
+
+👉 See: **Framework overview**
+
+### 2. Try the self-assessment
+
+Identify the level of competency relevant to your role.
+
+👉 Launch: <https://mycompetencies.streamlit.app/>
+
+### 3. Review your results
+
+-   Where are your strengths?\
+-   Where are your gaps?
+
+### 4. Define next steps
+
+-   Select relevant domains\
+-   Set learning or training goals
+
+------------------------------------------------------------------------
+
+## Next steps
+
+Choose the path that fits your goal:
+
+-   👉 **Learn how to use PGCF step-by-step** → Tutorials\
+-   👉 **Complete a specific task** → How-to Guides\
+-   👉 **Understand the framework in depth** → Explanation\
+-   👉 **Browse competencies** → Reference
+
+------------------------------------------------------------------------
+
+## Need help?
+
+If you're unsure where to start: - Begin with the **Individual learner tutorial** - Or explore a **use case** relevant to your role
+
+------------------------------------------------------------------------

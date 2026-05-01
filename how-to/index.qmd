@@ -1,0 +1,113 @@
+---
+title: "How-to Guides"
+---
+
+## Perform specific tasks with the PGCF
+
+This section provides **practical, task-focused guides** to help you use the Pathogen Genomics Competency Framework (PGCF) to achieve specific goals.
+
+Unlike tutorials, which walk you through a full workflow, these guides help you **solve a particular problem or complete a defined task**.
+
+------------------------------------------------------------------------
+
+## When should you use these guides?
+
+Use the How-to Guides when you need to:
+
+-   Perform a **gap analysis**
+-   Map a **curriculum or course**
+-   Define **role profiles**
+-   Assess **training needs**
+-   Integrate PGCF into an existing programme
+-   Interpret competency levels in practice
+
+If you are new to the framework, start with the **Tutorials** section first.
+
+------------------------------------------------------------------------
+
+## Available guides
+
+### 🔍 Perform a gap analysis
+
+Identify strengths and gaps in: - A curriculum\
+- A team or organisation\
+- A training programme
+
+Use this to prioritise areas for development.
+
+------------------------------------------------------------------------
+
+### 🧩 Map a curriculum to PGCF
+
+Align your course or training programme with: - PGCF domains and topics\
+- Competency statements\
+- Expected levels of complexity
+
+------------------------------------------------------------------------
+
+### 👥 Define role profiles
+
+Create structured role definitions by: - Selecting relevant domains\
+- Assigning expected competency levels\
+- Clarifying responsibilities
+
+------------------------------------------------------------------------
+
+### 📊 Conduct a training needs assessment
+
+Use PGCF to: - Identify required competencies for a role or team\
+- Compare current vs expected levels\
+- Inform training plans
+
+------------------------------------------------------------------------
+
+### 🎓 Integrate PGCF into short courses
+
+Embed the framework into: - Course design\
+- Learning objectives\
+- Assessment strategies
+
+------------------------------------------------------------------------
+
+### 🧠 Interpret Bloom’s levels in practice
+
+Understand how to: - Translate levels into teaching and assessment\
+- Apply levels consistently across topics\
+- Avoid common misunderstandings
+
+------------------------------------------------------------------------
+
+### 🌍 Use PGCF across sectors
+
+Adapt the framework for: - Clinical settings\
+- Public health organisations\
+- Research environments
+
+------------------------------------------------------------------------
+
+## How to use these guides
+
+-   Start with a clear goal\
+-   Select the relevant guide\
+-   Follow only the steps you need\
+-   Apply directly to your context
+
+These guides are designed to be **modular and flexible**.
+
+------------------------------------------------------------------------
+
+## What’s next?
+
+-   Use **Tutorials** for guided workflows\
+-   Explore **Reference** for detailed competency content\
+-   Use **Tools & Implementation** for templates and resources
+
+------------------------------------------------------------------------
+
+## Tips
+
+-   Focus on relevant domains — not everything is needed\
+-   Use PGCF iteratively — refine over time\
+-   Combine multiple guides for complex tasks
+
+------------------------------------------------------------------------
