@@ -1,0 +1,8 @@
+---
+title: "Solutions"
+format: html
+---
+
+### Variant calling
+
+The solutions to the exercises can be found on the [LMS](https://lms.wellcomeconnectingscience.org/mod/page/view.php?id=10767&forceview=1).

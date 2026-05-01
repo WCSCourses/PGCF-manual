@@ -1,0 +1,62 @@
+---
+title: "Overview"
+format: html
+---
+
+# Module Title
+
+Genome Assembly
+
+# Authors
+
+This tutorial was written by Jacqui Keane, Shane McCarthy and Thomas Otto.
+
+# Duration
+
+2.5 hours
+
+# Key topics
+
+# Learning outcomes
+
+On completion of the tutorial, you can expect to be able to:
+
+• Describe the different approaches to genome assembly
+
+• Generate a genome assembly from Illumina data
+
+• Generate a genome assembly from PacBio data
+
+• Generate statistics to evaluate the quality of a genome assembly
+
+• Estimate the size of a genome assembly
+
+# Activities
+
+-   Lecture: .5 hours
+
+-   Practical exercises: 2 hours
+
+# Manual
+
+[Module manual](module5_manual.qmd)
+
+[Exercises](module5_exercises.qmd)
+
+# Lecture recording, notes and scripts
+
+[Lecture on Genome Assembly from the 2022 NGS Asia course, delivered by Thomas Keane](https://www.youtube.com/watch?v=xE9pxUs_wHE&list=PLfovZnX0TvKtCjKYWitzUN6f_PwdUHeSu&index=8)
+
+# Teaching guidance
+
+[Instructor notes](module5_instructor_notes.qmd)
+
+# Datasets
+
+We recommend that you follow the exercises using the course virtual machine.
+
+The datasets used in this exercise are stored on the virtual machine.
+
+# Platform Guidance
+
+[Guide](module5_platform_guidance.qmd)

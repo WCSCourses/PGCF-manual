@@ -1,0 +1,68 @@
+---
+title: "Overview"
+format: html
+---
+
+# Module Title
+
+File formats and QC
+
+# Authors
+
+This tutorial was written by Jacqui Keane, Sara Sjunnebo, Petr Danecek and Thomas Keane.
+
+# Duration
+
+2 hours
+
+# Key topics
+
+In this module, learners will look at data formats in detail. At the end of the theory, there is a mandatory to test their knowledge.
+
+**FASTQ:** Unaligned read sequences with base qualities
+
+**SAM/BAM:** Unaligned or aligned reads, text and binary formats
+
+**CRAM:** Better compression than BAM
+
+**VCF/BCF:** Flexible variant call format; SNPs, indels, structural variations
+
+# Learning outcomes
+
+• Describe the different NGS data formats available (FASTQ, SAM/BAM, CRAM, VCF/BCF)
+
+• Perform a QC assessment of high throughput sequence data
+
+• Perform conversions between the different data formats
+
+# Activities
+
+-   Lecture: 30 minutes
+
+-   Practical exercises: 1 hour
+
+-   Assessment quiz: 30 minutes
+
+# Manual and practical execises
+
+[Module manual](module1_manual.qmd)
+
+[Exercises](module1_exercises.qmd)
+
+# Lecture recording, notes and scripts
+
+[Lecture on Data Formats and QC from the 2022 NGS Asia course, delivered by Petr Danacek](https://www.youtube.com/watch?v=mmjzJ0OjSow&list=PLfovZnX0TvKtCjKYWitzUN6f_PwdUHeSu&index=4)
+
+# Teaching guidance
+
+[Instructor notes](module1_instructor_notes.qmd)
+
+# Datasets
+
+We recommend that you follow the exercises using the course virtual machine.
+
+The datasets used in this exercise are stored on the virtual machine.
+
+# Platform Guidance
+
+[Guide](module1_platform_guidance.qmd)

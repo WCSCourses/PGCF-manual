@@ -1,0 +1,52 @@
+---
+title: "Overview"
+format: html
+---
+
+# Module Title
+
+Introduction to Linux
+
+# Authors
+
+This tutorial was written by Jacqui Keane.
+
+# Duration
+
+3.5 hours
+
+# Key topics
+
+# Learning outcomes
+
+-   Understand what a computer operating system is.
+
+-   Understand the structure of Linux file system.
+
+-   Use basic Linux commands to navigate the file system and examine data.
+
+# Activities
+
+-   Lecture: 30 minutes
+
+-   Practical exercises: 2.5 hours
+
+# Manual and practical execises
+
+[Module manual](module0_manual.qmd)
+
+[Exercises](module0_exercises.qmd)
+
+# Teaching guidance
+
+[Instructor notes](module0_instructor_notes.qmd)
+
+# Datasets
+
+We recommend that you follow the exercises using the course virtual machine.
+
+The datasets used in this exercise are stored on the virtual machine.
+
+# Platform Guidance
+
+[Guide](module0_platform_guidance.qmd)
